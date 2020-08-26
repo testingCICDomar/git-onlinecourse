@@ -1,5 +1,0 @@
-hello this me testing new git commands
-
-test
-
-
